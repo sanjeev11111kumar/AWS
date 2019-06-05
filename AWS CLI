@@ -1,0 +1,15 @@
+Install AWS CLI on Windows using instructions given in the following link:
+https://docs.aws.amazon.com/cli/latest/userguide/install-windows.html#install-msi-on-windows
+
+configure using following commands:
+
+aws configure
+AWS Access Key ID [None]: AKIAIOSFODNN7EXAMPLE
+AWS Secret Access Key [None]: wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
+Default region name [None]: us-west-2
+Default output format [None]: json
+
+
+check if you able to connect to your AWS account and access your services:
+
+aws s3 ls
