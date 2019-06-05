@@ -10,6 +10,11 @@ AWS Secret Access Key [None]: wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
 Default region name [None]: us-west-2
 Default output format [None]: json
 
+Note : To get Key ID and Secret Access to enter above follow below instructions:
+
+AWS Tookit icon can be seen after installation. select preferences from drop down menu and enter:
+Access Key ID and Secret Access Key, downloaded from "My Security Credentials" --> "Access Keys" --> Create New Access Key.
+
 
 --check if you able to connect to your AWS account and access your services:
 
