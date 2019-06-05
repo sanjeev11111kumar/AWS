@@ -1,0 +1,12 @@
+--- Install Eclipse on your Windows System
+--- Help-->Install New Software --> Enter https://aws.amazon.com/eclipse and select all listed Names and finish the install.
+
+If there is error please find the missing bundle web address and paste in the
+
+--- Help-->Install New Software --> URL and complete this install first and then again retry above steps for aws sdk install.
+
+
+Connect to your AWS account and browse services:
+
+AWS Tookit icon can be seen after installation. select preferences from drop down menu and enter:
+Access Key ID and Secret Access Key, downloaded from "My Security Credentials" --> "Access Keys" --> Create New Access Key.
